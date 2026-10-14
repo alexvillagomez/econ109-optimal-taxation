@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.DS_Store
+.env
+Manifest.toml
+ps2/q7_plots.png
